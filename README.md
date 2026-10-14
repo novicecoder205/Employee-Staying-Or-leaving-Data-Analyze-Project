@@ -16,17 +16,17 @@ Link: https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset
 
 ##### . Analysis:
 
-1. What are the common range of age for employees in this company?
+##### 1. What are the common range of age for employees in this company?
 <img width="588" height="441" alt="image" src="https://github.com/user-attachments/assets/be3cf548-560a-42c9-b9b4-108dfb99edd6" />
 
 . Explanation: Most employees are between 24 and 40 years old, with age 28 having the highest frequency.
 
-2. What are the gender dispersity for this company employees?
+##### 2. What are the gender dispersity for this company employees?
 <img width="629" height="483" alt="image" src="https://github.com/user-attachments/assets/646054f5-ef1b-40c6-af9e-22e89956457e" />
 
 . Explaination: The chart shows that male employees make up a larger proportion of the workforce than female employees, with approximately 1,520 males compared to 1,240 females.
 
-3. What are the distribution of Experience of staff in their current domain, counting in years?
+##### 3. What are the distribution of Experience of staff in their current domain, counting in years?
 <img width="512" height="442" alt="image" src="https://github.com/user-attachments/assets/a9ac0a0b-8936-442d-a356-75f5a1bdf4de" />
 
 . Examination:
@@ -48,6 +48,18 @@ Right-skewed distribution: The median is closer to Q1 than to Q3, and the right 
 Concentration of experience: Most employees have between 1 and 4 years of experience in their current domain, indicating that the workforce is primarily composed of employees with relatively limited to moderate domain experience.
 
 Overall, the chart indicates that employees typically have around 2 years of experience in their current domain, with the central 50% having between 1 and 4 years. Experience ranges from approximately 0 to 7 years, and the longer upper whisker suggests some variation toward higher experience levels.
+
+##### 5. How are the Experience in the current profession domain varies across different age group within the employee population?
+
+<img width="777" height="350" alt="image" src="https://github.com/user-attachments/assets/446f58ca-1e9c-4f10-911f-50b98df0026d" />
+
+. Explaination:
+
+The boxplot illustrates the distribution of experience in the current domain across different age groups. For most employees aged 28–41, the median domain experience remains approximately 2–3 years, indicating that experience in the current domain does not increase consistently with age. 
+
+Considerable variation is observed within several age groups, suggesting differences in career trajectories and the timing of entry into the current domain. A potential outlier is also observed at age 35, with approximately 7 years of domain experience. Overall, the results suggest that age alone may not be a reliable indicator of experience in the current domain. Further analysis, including the number of observations per age group and a correlation analysis, would help clarify the relationship between age and domain experience.
+
+
 
 
 #### 3. Machine Learning Models:
