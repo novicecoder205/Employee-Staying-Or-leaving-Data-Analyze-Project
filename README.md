@@ -26,6 +26,30 @@ Link: https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset
 
 . Explaination: The chart shows that male employees make up a larger proportion of the workforce than female employees, with approximately 1,520 males compared to 1,240 females.
 
+3. What are the distribution of Experience of staff in their current domain, counting in years?
+<img width="512" height="442" alt="image" src="https://github.com/user-attachments/assets/a9ac0a0b-8936-442d-a356-75f5a1bdf4de" />
+
+. Examination:
+
+. Minimum Experience are approximately 0 years.
+
+. First quartile (Q1): 1 year, meaning 25% of employees have 1 year or less of experience.
+
+. Median (Q2): 2 years, meaning 50% of employees have 2 years or less of experience, while the other 50% have 2 years or more.
+
+. Third quartile (Q3): 4 years, meaning 75% of employees have 4 years or less of experience.
+
+. Maximum experience: Approximately 7 years.
+
+. The Interquartile range (IQR): 4-1=3 years, The middle 50% of employees have between 1 and 4 years of experience.
+
+Right-skewed distribution: The median is closer to Q1 than to Q3, and the right whisker is longer than the left whisker. This suggests a positively skewed distribution, with some employees having relatively higher domain experience.
+
+Concentration of experience: Most employees have between 1 and 4 years of experience in their current domain, indicating that the workforce is primarily composed of employees with relatively limited to moderate domain experience.
+
+Overall, the chart indicates that employees typically have around 2 years of experience in their current domain, with the central 50% having between 1 and 4 years. Experience ranges from approximately 0 to 7 years, and the longer upper whisker suggests some variation toward higher experience levels.
+
+
 #### 3. Machine Learning Models:
 
 
