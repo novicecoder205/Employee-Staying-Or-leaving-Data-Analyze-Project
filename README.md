@@ -57,7 +57,9 @@ Overall, the chart indicates that employees typically have around 2 years of exp
 
 The boxplot illustrates the distribution of experience in the current domain across different age groups. For most employees aged 28–41, the median domain experience remains approximately 2–3 years, indicating that experience in the current domain does not increase consistently with age. 
 
-Considerable variation is observed within several age groups, suggesting differences in career trajectories and the timing of entry into the current domain. A potential outlier is also observed at age 35, with approximately 7 years of domain experience. Overall, the results suggest that age alone may not be a reliable indicator of experience in the current domain. Further analysis, including the number of observations per age group and a correlation analysis, would help clarify the relationship between age and domain experience.
+Considerable variation is observed within several age groups, suggesting differences in career trajectories and the timing of entry into the current domain. A potential outlier is also observed at age 35, with approximately 7 years of domain experience. 
+
+Overall, the results suggest that age alone may not be a reliable indicator of experience in the current domain. Further analysis, including the number of observations per age group and a correlation analysis, would help clarify the relationship between age and domain experience.
 
 
 
