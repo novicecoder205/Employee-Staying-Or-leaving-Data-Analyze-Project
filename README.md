@@ -24,12 +24,14 @@ Link: https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset
 ##### 2. What are the gender dispersity for this company employees?
 <img width="629" height="483" alt="image" src="https://github.com/user-attachments/assets/646054f5-ef1b-40c6-af9e-22e89956457e" />
 
-. Explaination: The chart shows that male employees make up a larger proportion of the workforce than female employees, with approximately 1,520 males compared to 1,240 females.
+###### . Explaination: 
+
+The chart shows that male employees make up a larger proportion of the workforce than female employees, with approximately 1,520 males compared to 1,240 females.
 
 ##### 3. What are the distribution of Experience of staff in their current domain, counting in years?
 <img width="512" height="442" alt="image" src="https://github.com/user-attachments/assets/a9ac0a0b-8936-442d-a356-75f5a1bdf4de" />
 
-. Examination:
+###### . Examination:
 
 . Minimum Experience are approximately 0 years.
 
@@ -53,7 +55,7 @@ Overall, the chart indicates that employees typically have around 2 years of exp
 
 <img width="777" height="350" alt="image" src="https://github.com/user-attachments/assets/446f58ca-1e9c-4f10-911f-50b98df0026d" />
 
-. Explaination:
+###### . Explaination:
 
 The boxplot illustrates the distribution of experience in the current domain across different age groups. For most employees aged 28–41, the median domain experience remains approximately 2–3 years, indicating that experience in the current domain does not increase consistently with age. 
 
@@ -61,8 +63,21 @@ Considerable variation is observed within several age groups, suggesting differe
 
 Overall, the results suggest that age alone may not be a reliable indicator of experience in the current domain. Further analysis, including the number of observations per age group and a correlation analysis, would help clarify the relationship between age and domain experience.
 
+##### 6 . What are the salary tier according to age group for employee?
 
-WIP
+<img width="585" height="445" alt="image" src="https://github.com/user-attachments/assets/9a998447-a3f8-4043-901b-aa49bc81ca47" />
+
+All payment tier (again, 1 is the lowest salary and 3 is the highest) share a common trend.
+
+Those of Age around 25 to 30 hold the highest population of each receives payment tier, showing that most employee would be around that age group.
+
+Payment tier 1 hold the highest population in comparison to the population of employee receiving tier 2 and tier 3 salary.
+
+##### 6 . What are the salary tier according to age group for employee?
+
+<img width="647" height="507" alt="image" src="https://github.com/user-attachments/assets/94e50cce-4501-4f7d-a102-a0af57190312" />
+
+
 
 #### 3. Machine Learning Models:
 
