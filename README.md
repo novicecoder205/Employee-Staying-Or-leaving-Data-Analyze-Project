@@ -77,7 +77,36 @@ Payment tier 1 hold the highest population in comparison to the population of em
 
 <img width="647" height="507" alt="image" src="https://github.com/user-attachments/assets/94e50cce-4501-4f7d-a102-a0af57190312" />
 
+The violin plot shows that employee ages are broadly similar across all three payment tiers, with median ages increasing slightly from approximately 28 to 30 years. The substantial overlap suggests that age alone may not strongly distinguish payment tiers. Further analysis is needed to determine whether this difference is statistically significant.
 
+##### 7 . What are the percentage of employees choosing to leave the company in each cities?
+
+<img width="601" height="501" alt="image" src="https://github.com/user-attachments/assets/6ada2e28-cd5d-42d6-87c6-7f84ebbe39e7" />
+
+1. Pune may have a retention problem. Approximately half of its employees have left, which is substantially higher than in the other two cities. The company should investigate possible causes, such as compensation, workload, career development, management practices, or employee satisfaction.
+
+2. Bangalore has the largest workforce. It has a high absolute number of departures, but this is partly explained by its larger employee population. Its attrition rate is a better measure for comparing performance with other branches.
+
+3. New Delhi and Bangalore have similar retention patterns. Both branches retain roughly two-thirds of their employees, based on the approximate chart values. The company could investigate whether their retention practices offer lessons that could be applied in Pune.
+
+##### 8 . What are the experiences between males and females staff in current domain?
+
+<img width="567" height="452" alt="image" src="https://github.com/user-attachments/assets/23402dce-89f0-4036-8ade-76e2d9b0ca30" />
+
+1. Female employees have a higher median experience level:
+The female median is approximately 3, compared with 2 for male employees. This indicates that the midpoint of the female experience distribution is higher. It may suggest differences in hiring patterns, employee tenure, job assignments, or workforce composition, but the chart alone cannot explain the reason.
+
+2. Both groups show similar variability:
+The boxes extend from 1 to 4 for both genders, and both groups have the same overall range. This suggests similar variability in the central portion of the experience distributions. However, the full distributions could still differ in other ways.
+
+3. Experience levels overlap considerably:
+Both groups cover the range from 0 to 7. There is no clear separation between the groups based on this chart. Many male and female employees may have similar experience levels.
+
+##### 8 . What are the rate of employees recruitment rates?
+
+<img width="625" height="425" alt="image" src="https://github.com/user-attachments/assets/d3c35fc2-503b-436b-a1eb-45ab8769f815" />
+
+The chart illustrates the annual distribution of new employees joining the company between 2012 and 2018. Recruitment generally increased from 2012 to 2015, reaching approximately 465 new employees in 2015, before declining in 2016. The company recorded its highest number of new hires in 2017, with approximately 660 employees, followed by a sharp decrease to around 240 employees in 2018. These fluctuations suggest that the company's recruitment activity varied considerably over the period, potentially reflecting changes in workforce demand or business expansion. Further investigation would be required to determine the underlying reasons for these changes.
 
 #### 3. Machine Learning Models:
 
