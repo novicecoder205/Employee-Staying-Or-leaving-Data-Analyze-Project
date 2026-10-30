@@ -124,18 +124,26 @@ The chart illustrates the annual distribution of new employees joining the compa
 
 ###### . Examination:
 
-A. Experience tends to increase with education level.
-
+A. Experience tends to increase with education level:
 The average experience in the current domain appears to rise from Bachelor's to Master's to PhD for both genders. This suggests a positive association between educational attainment and average experience in the current domain.
 
-B. Gender differences are relatively small.
-
+B. Gender differences are relatively small: 
 Female individuals have slightly higher average experience at the Bachelor's and Master's levels. At the PhD level, the difference is difficult to determine because the bars overlap visually and the legend obscures part of the chart.
 
-C. PhD holders have the highest average experience.
-
+C. PhD holders have the highest average experience: 
 Individuals with PhDs appear to have more experience in their current domain than those with Bachelor's or Master's degrees, regardless of gender.
 
+##### 11 . What are the distribution of employees' experience in their current domain across three cities (Bangalore, Pune, and New Delhi), categorized by gender (Male and Female).
+
+<img width="745" height="235" alt="image" src="https://github.com/user-attachments/assets/28241253-42bc-44e6-9663-7290299f9826" />
+
+A. Workforce concentration: The majority of employees across the three cities appear to have relatively low-to-moderate experience in their current domain. This may indicate that the company has a considerable proportion of employees who are still developing their domain-specific expertise.
+
+B. Differences in workforce size: Bangalore has a noticeably larger employee population than Pune and New Delhi. This suggests that the company has a stronger workforce presence in Bangalore within the dataset.
+
+C. Gender representation: Both male and female employees are represented across different experience levels. However, the chart alone does not establish whether gender representation is balanced because the total number of male and female employees may differ.
+
+D. Experienced employees: The number of employees with more than five years of experience is relatively small across all three cities. This could be worth investigating further when assessing workforce experience and employee retention.
 
 #### 3. Machine Learning Models:
 
