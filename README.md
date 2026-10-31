@@ -145,6 +145,16 @@ C. Gender representation: Both male and female employees are represented across 
 
 D. Experienced employees: The number of employees with more than five years of experience is relatively small across all three cities. This could be worth investigating further when assessing workforce experience and employee retention.
 
+#### 12. What are the average age of the employees joining the company in the company three banches, Bangalore, New Delhi, and Pune?
+
+<img width="577" height="422" alt="image" src="https://github.com/user-attachments/assets/cb0bce62-b71f-4cd5-85b8-e5aec4340b34" />
+
+Bangalore: Employees joining the company are generally older, with an average age of around 31–32 years, thus they have the oldest new employee. 
+
+New Delhi: Employees are generally younger, with an average age of around 29–30 years. However, their average age increases significantly in 2017, thus they have the youngest new employees.
+
+Pune: Employees have an average age of around 30–31 years, with relatively small changes over the years, and the age gap stay relatively even.
+
 #### 3. Machine Learning Models:
 
 
