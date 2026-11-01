@@ -33,23 +33,23 @@ The chart shows that male employees make up a larger proportion of the workforce
 
 ###### . Examination:
 
-. Minimum Experience are approximately 0 years.
+Minimum Experience: Approximately 0 years.
 
-. First quartile (Q1): 1 year, meaning 25% of employees have 1 year or less of experience.
+First Quartile (Q1): 1 year, meaning 25% of employees have 1 year or less of experience.
 
-. Median (Q2): 2 years, meaning 50% of employees have 2 years or less of experience, while the other 50% have 2 years or more.
+Median (Q2): 2 years, meaning half of the employees have 2 years or less of experience.
 
-. Third quartile (Q3): 4 years, meaning 75% of employees have 4 years or less of experience.
+Third Quartile (Q3): 4 years, meaning 75% of employees have 4 years or less of experience.
 
-. Maximum experience: Approximately 7 years.
+Maximum Experience: Approximately 7 years.
 
-. The Interquartile range (IQR): 4-1=3 years, The middle 50% of employees have between 1 and 4 years of experience.
+Interquartile Range (IQR): 3 years (4 − 1), meaning the middle 50% of employees have between 1 and 4 years of experience.
 
-Right-skewed distribution: The median is closer to Q1 than to Q3, and the right whisker is longer than the left whisker. This suggests a positively skewed distribution, with some employees having relatively higher domain experience.
+Distribution: The data is right-skewed, as the right whisker is longer than the left. This indicates that some employees have considerably more experience than others.
 
-Concentration of experience: Most employees have between 1 and 4 years of experience in their current domain, indicating that the workforce is primarily composed of employees with relatively limited to moderate domain experience.
+Concentration of Experience: Most employees have between 1 and 4 years of experience in their current domain, suggesting a workforce with limited to moderate experience.
 
-Overall, the chart indicates that employees typically have around 2 years of experience in their current domain, with the central 50% having between 1 and 4 years. Experience ranges from approximately 0 to 7 years, and the longer upper whisker suggests some variation toward higher experience levels.
+Overall: The chart shows that employees typically have around 2 years of experience, with most falling between 1 and 4 years. Experience ranges from approximately 0 to 7 years, with a few employees having higher levels of experience.
 
 ##### 5. How are the Experience in the current profession domain varies across different age group within the employee population?
 
@@ -57,11 +57,11 @@ Overall, the chart indicates that employees typically have around 2 years of exp
 
 ###### . Examination:
 
-The boxplot illustrates the distribution of experience in the current domain across different age groups. For most employees aged 28–41, the median domain experience remains approximately 2–3 years, indicating that experience in the current domain does not increase consistently with age. 
+The boxplot shows the distribution of current domain experience across different age groups. For most employees aged 28–41, the median experience is around 2–3 years, suggesting that domain experience does not consistently increase with age.
 
-Considerable variation is observed within several age groups, suggesting differences in career trajectories and the timing of entry into the current domain. A potential outlier is also observed at age 35, with approximately 7 years of domain experience. 
+Variation: Several age groups show considerable differences in experience, possibly reflecting different career paths and the timing of entry into their current domain. An outlier is also observed at age 35, with approximately 7 years of experience.
 
-Overall, the results suggest that age alone may not be a reliable indicator of experience in the current domain. Further analysis, including the number of observations per age group and a correlation analysis, would help clarify the relationship between age and domain experience.
+Overall: The results suggest that age alone is not a reliable indicator of domain experience. Further analysis, such as examining the number of employees in each age group and conducting a correlation analysis, could provide a clearer understanding of their relationship.
 
 ##### 6 . What are the salary tier according to age group for employee?
 
@@ -89,11 +89,11 @@ The violin plot shows that employee ages are broadly similar across all three pa
 
 ###### . Examination:
 
-A. Pune may have a retention problem. Approximately half of its employees have left, which is substantially higher than in the other two cities. The company should investigate possible causes, such as compensation, workload, career development, management practices, or employee satisfaction.
+A. Pune: Has a potential retention problem, with approximately half of its employees leaving. The company should investigate possible causes, such as salary, workload, and career development.
 
-B. Bangalore has the largest workforce. It has a high absolute number of departures, but this is partly explained by its larger employee population. Its attrition rate is a better measure for comparing performance with other branches.
+B. Bangalore: Has the largest workforce and the highest number of departures, partly due to its larger employee population. Its attrition rate provides a better comparison.
 
-C. New Delhi and Bangalore have similar retention patterns. Both branches retain roughly two-thirds of their employees, based on the approximate chart values. The company could investigate whether their retention practices offer lessons that could be applied in Pune.
+C. New Delhi: Has a retention pattern similar to Bangalore, retaining roughly two-thirds of its employees. Their retention practices could provide useful lessons for improving Pune's retention.
 
 ##### 8 . What are the experiences between males and females staff in current domain?
 
@@ -101,14 +101,11 @@ C. New Delhi and Bangalore have similar retention patterns. Both branches retain
 
 ###### . Examination:
 
-A. Female employees have a higher median experience level:
-The female median is approximately 3, compared with 2 for male employees. This indicates that the midpoint of the female experience distribution is higher. It may suggest differences in hiring patterns, employee tenure, job assignments, or workforce composition, but the chart alone cannot explain the reason.
+A. Higher Female Median: Female employees have a higher median experience (3 years) than males (2 years), suggesting slightly higher experience levels.
 
-B. Both groups show similar variability:
-The boxes extend from 1 to 4 for both genders, and both groups have the same overall range. This suggests similar variability in the central portion of the experience distributions. However, the full distributions could still differ in other ways.
+B. Similar Variability: Both groups have an IQR of 1–4 years and the same overall range, indicating similar experience distributions.
 
-C. Experience levels overlap considerably:
-Both groups cover the range from 0 to 7. There is no clear separation between the groups based on this chart. Many male and female employees may have similar experience levels.
+C. Considerable Overlap: Both groups range from 0 to 7 years of experience, showing no clear separation between male and female employees.
 
 ##### 9 . What are the rate of employees recruitment rates?
 
@@ -116,7 +113,11 @@ Both groups cover the range from 0 to 7. There is no clear separation between th
 
 ###### . Examination:
 
-The chart illustrates the annual distribution of new employees joining the company between 2012 and 2018. Recruitment generally increased from 2012 to 2015, reaching approximately 465 new employees in 2015, before declining in 2016. The company recorded its highest number of new hires in 2017, with approximately 660 employees, followed by a sharp decrease to around 240 employees in 2018. These fluctuations suggest that the company's recruitment activity varied considerably over the period, potentially reflecting changes in workforce demand or business expansion. Further investigation would be required to determine the underlying reasons for these changes.
+The chart illustrates the annual distribution of new employees joining the company between 2012 and 2018. Recruitment generally increased from 2012 to 2015, reaching approximately 465 new employees in 2015, before declining in 2016. 
+
+The company recorded its highest number of new hires in 2017, with approximately 660 employees, followed by a sharp decrease to around 240 employees in 2018. These fluctuations suggest that the company's recruitment activity varied considerably over the period, potentially reflecting changes in workforce demand or business expansion. 
+
+Further investigation would be required to determine the underlying reasons for these changes.
 
 ##### 10 . What are average experience in the field between female and male employees across three educational degree, Bachelors, Master and PHD. 
 
@@ -124,26 +125,23 @@ The chart illustrates the annual distribution of new employees joining the compa
 
 ###### . Examination:
 
-A. Experience tends to increase with education level:
-The average experience in the current domain appears to rise from Bachelor's to Master's to PhD for both genders. This suggests a positive association between educational attainment and average experience in the current domain.
+A. Experience and Education: Average domain experience increases with education level, from Bachelor's to Master's to PhD, suggesting a positive association.
 
-B. Gender differences are relatively small: 
-Female individuals have slightly higher average experience at the Bachelor's and Master's levels. At the PhD level, the difference is difficult to determine because the bars overlap visually and the legend obscures part of the chart.
+B. Gender Differences: Females have slightly higher average experience at the Bachelor's and Master's levels, while the PhD difference is unclear.
 
-C. PhD holders have the highest average experience: 
-Individuals with PhDs appear to have more experience in their current domain than those with Bachelor's or Master's degrees, regardless of gender.
+C. Highest Experience: PhD holders have the highest average domain experience across both genders.
 
 ##### 11 . What are the distribution of employees' experience in their current domain across three cities (Bangalore, Pune, and New Delhi), categorized by gender (Male and Female).
 
 <img width="745" height="235" alt="image" src="https://github.com/user-attachments/assets/28241253-42bc-44e6-9663-7290299f9826" />
 
-A. Workforce concentration: The majority of employees across the three cities appear to have relatively low-to-moderate experience in their current domain. This may indicate that the company has a considerable proportion of employees who are still developing their domain-specific expertise.
+A. Workforce Experience: Most employees across the three cities have low-to-moderate domain experience, suggesting many are still developing their expertise.
 
-B. Differences in workforce size: Bangalore has a noticeably larger employee population than Pune and New Delhi. This suggests that the company has a stronger workforce presence in Bangalore within the dataset.
+B. Workforce Size: Bangalore has a noticeably larger workforce than Pune and New Delhi.
 
-C. Gender representation: Both male and female employees are represented across different experience levels. However, the chart alone does not establish whether gender representation is balanced because the total number of male and female employees may differ.
+C. Gender Representation: Both genders are represented across experience levels, but the chart does not confirm balanced representation.
 
-D. Experienced employees: The number of employees with more than five years of experience is relatively small across all three cities. This could be worth investigating further when assessing workforce experience and employee retention.
+D. Experienced Employees: Few employees have more than five years of experience, which may be worth investigating further.
 
 #### 12. What are the average age of the employees joining the company in the company three banches, Bangalore, New Delhi, and Pune?
 
