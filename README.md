@@ -19,7 +19,11 @@ Link: https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset
 ##### 1. What are the common range of age for employees in this company?
 <img width="588" height="441" alt="image" src="https://github.com/user-attachments/assets/be3cf548-560a-42c9-b9b4-108dfb99edd6" />
 
-. Explanation: Most employees are between 24 and 40 years old, with age 28 having the highest frequency.
+. Explanation: 
+
+The histogram shows that employees are approximately 22–41 years old, with most concentrated between 25 and 30, particularly around age 28. 
+
+The number of employees aged 31–40 remains relatively stable, indicating a mix of young and experienced employees. Overall, the organization has a relatively young workforce, highlighting the importance of employee retention, career development, and knowledge sharing.
 
 ##### 2. What are the gender dispersity for this company employees?
 <img width="629" height="483" alt="image" src="https://github.com/user-attachments/assets/646054f5-ef1b-40c6-af9e-22e89956457e" />
