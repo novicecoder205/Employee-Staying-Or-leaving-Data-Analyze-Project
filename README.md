@@ -159,7 +159,33 @@ Pune: Employees have an average age of around 30–31 years, with relatively sma
 
 #### 3. Machine Learning Models:
 
+##### Repeat Goal:
 
+Using ML models to figure out whether an employee will stay or leave the company, bases on the employee characteristics on the dataset. 
+
+#### 1) Logistic Regression:
+
+Logistic Regression predicts the probability that an employee belongs to one of two categories, 0 = stay, 1 = leave.
+
+The model uses a mathematical function to calculate the probability of leaving based on employee characteristics.
+
+What Logistic Regression learn are:
+
+Does a lower PaymentTier associate with a higher probability of leaving?
+
+Does being EverBenched associate with leaving?
+
+Does experience in the current domain influence the prediction?
+
+The Advantage of this model is it's easy to understand as data, fast to trains, and works well enough as a baseline models.
+
+The problem with this model is it's assumes a relatively simple relationship between features and the log-odds of leaving. It's will also not may not capture complicated relationships between employee characteristics, and can not underperform when the dataset has complex nonlinear patterns well. 
+
+#### 2) KNeighbors Classifier:
+
+#### 3) Decision Tree Classifier:
+
+#### 4) Random Forest Classifier:
 
 #### 4. Model Evaluation:
 
