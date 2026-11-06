@@ -165,27 +165,20 @@ Using ML models to figure out whether an employee will stay or leave the company
 
 #### 1) Logistic Regression:
 
-Logistic Regression predicts the probability that an employee belongs to one of two categories, 0 = stay, 1 = leave.
-
-The model uses a mathematical function to calculate the probability of leaving based on employee characteristics.
-
-What Logistic Regression learn are:
-
-Does a lower PaymentTier associate with a higher probability of leaving?
-
-Does being EverBenched associate with leaving?
-
-Does experience in the current domain influence the prediction?
-
-The Advantage of this model is it's easy to understand as data, fast to trains, and works well enough as a baseline models.
-
-The problem with this model is it's assumes a relatively simple relationship between features and the log-odds of leaving. It's will also not may not capture complicated relationships between employee characteristics, and can not underperform when the dataset has complex nonlinear patterns well. 
+<img width="372" height="202" alt="image" src="https://github.com/user-attachments/assets/a7673867-b362-4b72-b78f-56cb4971ccbb" />
 
 #### 2) KNeighbors Classifier:
 
+<img width="582" height="392" alt="image" src="https://github.com/user-attachments/assets/bf2c5b85-e97c-4506-8f2d-3a6a2b01e256" />
+
+
 #### 3) Decision Tree Classifier:
 
+<img width="355" height="477" alt="image" src="https://github.com/user-attachments/assets/ad3cd9eb-a54b-4deb-9cbc-fa0b07cffdd7" />
+
 #### 4) Random Forest Classifier:
+
+<img width="562" height="400" alt="image" src="https://github.com/user-attachments/assets/ceb468f3-d5d9-4f2a-8466-23badf22a762" />
 
 #### 4. Model Evaluation:
 
